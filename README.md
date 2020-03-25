@@ -1,1 +1,1 @@
-# rocket
+Optimal control of interplanetary rockets
